@@ -1,1 +1,1 @@
-# Pwsh-Handy-Cmds
+# Pwsh Handy Cmds
